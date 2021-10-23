@@ -7,7 +7,6 @@
 !.dockerignore
 !.eslintrc.json
 !.flowconfig
-!.github
 !.gitignore
 !.gqlconfig
 !.npmrc
@@ -27,6 +26,7 @@ build/
 coverage/
 dist/
 *\.egg*
+.github
 # data
 /media/
 /node_modules/
